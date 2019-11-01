@@ -1,0 +1,24 @@
+1. Install numpy
+	$ conda install -c anaconda numpy
+
+2. Install pandas for using dataframes
+	$ conda install -c anaconda pandas
+
+3. Install seaborn for operations on dataframes
+	$ conda install -c anaconda seaborn
+
+4. Install matplotlib for graphs and visualization
+	$ conda install -c conda-forge matplotlib
+
+5. Install matplotlib basemap
+	$ conda install -c conda-forge proj4
+	$ conda install -c conda-forge basemap
+
+6. Install plotly for map visualizations
+	$ conda install -c plotly plotly
+
+7. Install scikit-learn for machine learning tools
+	$ conda install scikit-learn
+
+7. Install geopy to work with geographical coordiantes
+	$ conda install -c conda-forge geopy
